@@ -8,4 +8,4 @@ A symbolization model qua University of the West Indies written in Alloy.
 
 AUTHOR PORTFOLIO
 ============================================
-http://jordanbennett.yzi.me/
+http://jordanmicahbennett.grn.cc/
