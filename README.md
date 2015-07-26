@@ -13,4 +13,4 @@ A symbolization model qua University of the West Indies written in Alloy.
 
 AUTHOR PORTFOLIO
 =============================
-http://jordanbennett.2fh.co/ 
+http://folioverse.appspot.com/
